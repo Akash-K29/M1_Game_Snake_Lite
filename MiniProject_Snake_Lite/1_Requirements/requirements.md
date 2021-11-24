@@ -5,7 +5,7 @@ Snake Lite is the common name for a video game concept where the player maneuver
 ## Research:
 The concept originated in the 1976 two-player arcade game Blockade from Gremlin Industries, and the ease of implementing Snake has led to hundreds of versions for many platforms. 1982's Tron arcade game, based on the movie, includes Snake gameplay for the single-player Light Cycles segment, cementing a connection between the two. After a variant was preloaded on Nokia mobile phones in 1998, there was a resurgence of interest in the snake concept as it found a larger audience
 
-## Requirements:
+## Basic Requirements:
 
 1.Basic C programming.
 
@@ -114,6 +114,9 @@ for(initialization;condition;incr/decr)
 }
 
 The for loop is used in the case where we need to execute some part of the code until the given condition is satisfied. The for loop is also called as a per-tested loop. It is better to use for loop if the number of iteration is known in advance.
+
+## LOW Level Requirements:
+
 
 ## SWOT Analysis:
 
