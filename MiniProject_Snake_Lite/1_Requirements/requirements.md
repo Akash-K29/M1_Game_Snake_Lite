@@ -116,9 +116,9 @@ for(initialization;condition;incr/decr)
 The for loop is used in the case where we need to execute some part of the code until the given condition is satisfied. The for loop is also called as a per-tested loop. It is better to use for loop if the number of iteration is known in advance.
 
 ## LOW Level Requirements:
-Memory: 3 MB. 
+Memory: 3 GB. 
 
-File Size: 1 MB.
+File Size: 1 GB.
 
 ## High Level Requirements:
 Graphics Card: NVIDIA GeForce GTX 780.
